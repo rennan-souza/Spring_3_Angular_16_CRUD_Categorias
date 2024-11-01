@@ -1,0 +1,25 @@
+$primary: #0d6efd;
+$secondary: #6c757d;
+$success: #198754;
+$info: #0dcaf0;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #e9ecef;
+$dark: #212529;
+
+$white: #fff;
+$border-color: #dee2e6;
+$body-bg: $white;
+$body-color: $dark;
+
+.btn-table-td {
+    color: $dark;
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
